@@ -1,6 +1,8 @@
-## Git
+## Git/Github
+
 - REPOSITÓRIO -> conjunto de branchs;
 - MERGE -> juntar várias branchs;
+![stoneGIT](https://user-images.githubusercontent.com/85708747/185693465-500b4d56-0f2f-4d00-8115-c6240e0e20a7.png)
 
 **commit =** palavra utilizada para representar cada alteração. 
 
@@ -54,7 +56,7 @@ git push u origin master  (só usa o u a primeira vez que faz o push), desta for
 
 ### Fork:
 
-![fork.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/056e355f-f4f2-4868-96f3-5ef5b2c9641d/fork.png)
+![fork](https://user-images.githubusercontent.com/85708747/185694004-2d9abaec-6258-4498-ac4d-12dff8170fb6.png)
 
 Clicar em fork no repositório remoto que se quer copiar; 
 
@@ -74,7 +76,7 @@ Geralmente, existe a branch principal, que é a versão estável e para você su
 
 - Altera o arquivo, faz o git add ., git commit e o push.
 
-![PR.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c4b6c72-8d45-4448-825e-74dcfba71d8d/PR.jpg)
+
 
 jcbombardelli/gama-no-pullrequest
 
@@ -85,3 +87,5 @@ Serve para publicar o projeto com HTML, CSS e JS.
 - Setting;
 - Pages → seleciona a branch que quer publicar;
 - ERRO 404 → acontece quando não consegue encontrar o arquivo index.html, para solucionar o problema, pode-se adicionar ao final da url o nome do arquivo, por exemplo, admin.html ou renomear o arquivo para index.html.
+
+![octobiwan](https://user-images.githubusercontent.com/85708747/185694379-0bf728f5-7c41-4a76-92ba-70041225a2cd.jpg)
